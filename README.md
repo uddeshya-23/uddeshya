@@ -36,12 +36,9 @@ I design and ship **AI-native cloud security products** that help enterprises de
 
 | Project | Description | Tech |
 |--------|------------|------|
-| **[Viper AI](https://github.com/uddeshya-23/viper-ai)** | GenAI Security Copilot for SOC teams – investigate threats via natural language | LangGraph, Anthropic, Gemini, Elasticsearch, PostgreSQL |
 | **[JIRA MCP Server](https://github.com/uddeshya-23/mcp-server-JIRA)** | AI sprint analytics tool – auto-summarizes tickets, tracks blockers | Anthropic, TypeScript, MCP Protocol |
-| **[CyberQ ORO](https://github.com/uddeshya-23/cyberq-oro)** | SaaS phishing simulation platform for BFSI digital channels | Python, GenAI, AWS |
 | **[eBPF Runtime Enforcement](https://github.com/uddeshya-23/ebpf-security-demo)** | Detect & block container malware (e.g., malicious domain calls) using Tetragon | eBPF, Tetragon, Kubernetes |
 
-> 💡 **All projects are open for collaboration!** PRs, issues, and coffee chats welcome ☕
 
 ---
 
